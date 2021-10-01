@@ -1,0 +1,8 @@
+[submodule "raningu-backend"]
+	path = raningu-backend
+	url = https://github.com/cherrystz/raningu-backend.git
+	branch = main
+[submodule "raningu-frontend"]
+	path = raningu-frontend
+	url = https://github.com/harctto/raningu-frontend.git
+	branch = main
